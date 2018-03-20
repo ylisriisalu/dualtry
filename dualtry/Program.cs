@@ -10,6 +10,8 @@ namespace dualtry
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Starting console...");
+            Console.ReadKey();
         }
     }
 }
